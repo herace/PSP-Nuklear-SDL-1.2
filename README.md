@@ -3,11 +3,11 @@ SDL 1.2 support for Nuklear on the PSP
 
 **This is still a work in progress** hense why it looks like shit, whoever interested please feel free to contriubute :)
 
-PPSSPP
+PPSSPP:
 
 ![screenshot 01](screenshot_01.png)
 
-Hardware
+Hardware:
 
 ![screenshot 02](screenshot_02.png)
 
